@@ -25,6 +25,25 @@
 > type all the stuff you want here
 ```
 
+You can add footnotes too [^1]
+
+[^1]: This is the footnote I added
+
+
+```
+You can add footnotes too [^1]
+
+[^1] This is the footnote I added
+
+```
+
+### My Great Heading {#custom-id}
+`### My Great Heading {#cutom-id}`
+
+
+
+
+
 This is where all my notes will go
 
 
