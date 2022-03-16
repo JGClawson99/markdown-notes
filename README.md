@@ -138,8 +138,8 @@ definition
 `:joy:`
 
 ### Highlight
-==important text== might need to be highlighted  
-`==important text== might need to be highlighted`
+<mark>important text</mark> might need to be highlighted  
+`<mark>important text</mark> might need to be highlighted`
 
 ### Subscript
 H<sub>2</sub>0  
