@@ -1,8 +1,6 @@
 # Markdown Notes
----
 
 ## Basic Syntax
----
 
 ### Headings
 
@@ -14,17 +12,15 @@
 
 ## H3
 `### H3`
----
+
 
 ### Bold
 **bold text**
 `**bold text**`
----
 
 ### Italic
 *italicized text*
 `*italicized text*`
----
 
 ### blockquote
 > this is an example of a blockquote
@@ -35,7 +31,6 @@
 >
 > type all the stuff you want here
 ```
----
 
 
 You can add footnotes too [^1]
