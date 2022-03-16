@@ -15,7 +15,7 @@
 
 
 ### Bold
-**bold text**
+**bold text**  
 `**bold text**`
 
 ### Italic
