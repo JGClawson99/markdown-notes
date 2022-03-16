@@ -69,6 +69,15 @@
 `![sunset](images/sunset.jpg)`  
 alt text = sunset  
 
+## Extended Syntax
+
+### Table
+| Syntax | Description |
+| ------ | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
 
 
 
