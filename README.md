@@ -95,6 +95,7 @@ This is a fenced code block
 It's not the first time I've used this
 ` ` `
 ```
+Note: No spaces between backticks
 
 ### Footnote
 You can add footnotes too [^1]
