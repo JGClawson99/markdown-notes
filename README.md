@@ -139,7 +139,8 @@ definition
 
 ### Highlight
 <mark style="background-color: #FFFF00">important text</mark> might need to be highlighted  
-`<mark>important text</mark> might need to be highlighted`
+`<mark style="background-color: #FFFF00">important text</mark> might need to be highlighted`  
+Note: This isn't quite working for me
 
 ### Subscript
 H<sub>2</sub>0  
@@ -153,11 +154,3 @@ X<sup>2</sup>
 
 ### Newline
 Add two or more spaces at the end of a line  
-
-
-
-
-
-This is where all my notes will go
-
-
