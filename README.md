@@ -142,8 +142,8 @@ definition
 `== important text == might need to be highlighted`
 
 ### Subscript
-H<sub>2</sub>0  
-`H~2~0`
+H<sub>2</sub><sub>0</sub>  
+`H<sub>2</sub><sub>0</sub>`
 
 ### Superscript
 X<sup>2</sup>  
