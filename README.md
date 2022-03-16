@@ -142,12 +142,12 @@ definition
 `== important text == might need to be highlighted`
 
 ### Subscript
-H~2~0  
+H<sub>2</sub>0  
 `H~2~0`
 
 ### Superscript
-X^2^  
-`X^2^`
+X<sup>2</sup>  
+`X<sup>2</sup>`
 
 ## Other
 
