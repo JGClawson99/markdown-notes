@@ -19,7 +19,7 @@
 `**bold text**`
 
 ### Italic
-*italicized text*
+*italicized text*  
 `*italicized text*`
 
 ### blockquote
@@ -32,7 +32,50 @@
 > type all the stuff you want here
 ```
 
+### Ordered List
+1. First item
+2. Second item
+3. Third item
+```
+1. First item
+2. Second item
+3. Third item
+```
 
+### Unordered List
+- First item
+- Second item
+- Third item
+```
+- First item
+- Second item
+- Third item
+```
+
+### Code
+`code`  
+``code``
+
+### Hroizontal Rule
+---
+`---`
+
+### Link
+[Church Website](https://www.churchofjesuschrist.org/?lang=eng)  
+`[Church Website](https://www.churchofjesuschrist.org/?lang=eng)`
+
+### Image
+![sunset](images/sunset.jpg)  
+`![sunset](images/sunset.jpg)`  
+alt text = sunset  
+
+
+
+
+
+
+
+### footnotes
 You can add footnotes too [^1]
 
 [^1]: This is the footnote I added
