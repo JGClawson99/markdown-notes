@@ -90,10 +90,10 @@ It's not the first time I've used this
 ```
 
 ```
-\`\`\`
+` ` `
 This is a fenced code block
 It's not the first time I've used this
-\`\`\`
+` ` `
 ```
 
 ### Footnote
