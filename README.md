@@ -76,15 +76,27 @@ alt text = sunset
 | ------ | ----------- |
 | Header | Title |
 | Paragraph | Text |
+```
+| Syntax | Description |
+| ------ | ----------- |
+| Header | Title |
+| Paragraph | Text |
+```
 
+### Fenced Code Block
+```
+This is a fenced code block
+It's not the first time I've used this
 
+```
+```
+```
+This is a fenced code block
+It's not the first time I've used this
+```
+```
 
-
-
-
-
-
-### footnotes
+### Footnote
 You can add footnotes too [^1]
 
 [^1]: This is the footnote I added
@@ -98,8 +110,9 @@ You can add footnotes too [^1]
 ```
 
 ### My Great Heading {#custom-id}
-`### My Great Heading {#cutom-id}`
+`### My Great Heading {#custom-id}`
 
+### Definition List
 definition
 : a statement of the exact meaning of a word, especially in a dictionary.
 
@@ -108,8 +121,38 @@ definition
 : a statement of the exact meaning of a word, especially in a dictionary.
 ```
 
+### Strikethrough
 ~~This is not true~~
 `~~This is not true~~`
+
+### Task List
+- [x] Learn to Code
+- [ ] Die a happy man
+```
+- [x] Learn to Code
+- [ ] Die a happy man
+```
+
+### Emoji
+:joy:  
+`:joy:`
+
+### Highlight
+== important text == might need to be highlighted  
+`== important text == might need to be highlighted`
+
+### Subscript
+H~2~0  
+`H~2~0`
+
+### Superscript
+X^2^  
+`X^2^`
+
+## Other
+
+### Newline
+Add two or more spaces at the end of a line  
 
 
 
