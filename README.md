@@ -138,7 +138,7 @@ definition
 `:joy:`
 
 ### Highlight
-<mark>important text</mark> might need to be highlighted  
+<mark style="background-color: #FFFF00">important text</mark> might need to be highlighted  
 `<mark>important text</mark> might need to be highlighted`
 
 ### Subscript
