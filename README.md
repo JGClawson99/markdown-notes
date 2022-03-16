@@ -138,12 +138,12 @@ definition
 `:joy:`
 
 ### Highlight
-== important text == might need to be highlighted  
-`== important text == might need to be highlighted`
+==important text== might need to be highlighted  
+`==important text== might need to be highlighted`
 
 ### Subscript
-H<sub>2</sub><sub>0</sub>  
-`H<sub>2</sub><sub>0</sub>`
+H<sub>2</sub>0  
+`H<sub>2</sub>0`
 
 ### Superscript
 X<sup>2</sup>  
